@@ -1,0 +1,6 @@
+{
+  "name": "OmniWallet NFC & Access Pass",
+  "description": "Universal digital wallet and access key manager for loyalty, transit, bank cards, intercom RFID chips, electronic door locks, and barcode/QR passes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
